@@ -1,0 +1,34 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">  
+    <file>main.qml</file>
+    <file>DaemonLog.qml</file>
+    <file>ContactsView.qml</file>
+    <file>InfoView.qml</file>
+    <file>Switch.qml</file>
+    <file>KnobDial.qml</file>
+    <file>JavaScript.js</file>
+    <file>Button.qml</file>
+    <file>GpsIcon.qml</file>
+    <file>images/reflect.png</file>
+    <file>images/gpsOff.png</file>
+    <file>images/gpsOn.png</file>
+    <file>images/back_contactlist.png</file>
+    <file>images/back_landscape.png</file>
+    <file>images/back_portrait.png</file>
+    <file>images/back_on-off.png</file>
+    <file>images/back_on-off_active.png</file>
+    <file>images/btn_accuracy.png</file>
+    <file>images/btn_accuracy_back.png</file>
+    <file>images/btn_accuracy_shadow.png</file>
+    <file>images/btn_back.png</file>
+    <file>images/btn_exit.png</file>
+    <file>images/btn_exit_down.png</file>
+    <file>images/btn_info.png</file>
+    <file>images/btn_info_down.png</file>
+    <file>images/btn_select.png</file>
+    <file>images/btn_select_down.png</file>
+    <file>images/logo.png</file>
+    <file>images/close_on.png</file>
+    <file>images/close.png</file>
+</qresource>
+</RCC>

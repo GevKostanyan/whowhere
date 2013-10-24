@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<backup_registration>
+    <passive_backup>
+        <include_directory name="\" />
+    </passive_backup>
+    <system_backup />
+    <restore requires_reboot="yes" />
+    <public_backup>
+       <include_directory name="c:\resource\apps\xmldata" />
+    </public_backup>
+</backup_registration>
